@@ -1,23 +1,30 @@
-📊 Project 4 – Statistical Analysis of Telecom Plans (Megaline)
+## 📊 Project 4 – Statistical Analysis of Telecom Plans (Megaline)
 
-Objective
-Analyze customer behavior and revenue from the Surf and Ultimate prepaid plans to determine which generates higher revenue, and test if revenue differs between the NY-NJ region and others.
+**Objective**  
+- Analyze customer behavior and revenue for the **Surf** and **Ultimate** prepaid plans  
+- Test if revenue differs between **NY-NJ** and other regions  
 
-Results
+**Results**  
+- Average monthly revenue: **Ultimate = $72**, **Surf = $60**  
+- Extra charges mostly from **Surf** users  
+- Highest revenue in the **NY-NJ-PA MSA** region  
+- **Statistical tests** confirmed significant differences between plans and regions  
 
-Average monthly revenue: Ultimate = $72, Surf = $60
+**Tools**  
+- **Python**  
+- **Pandas**  
+- **NumPy**  
+- **Matplotlib**  
+- **Seaborn**  
+- **SciPy**  
 
-Extra charges mostly come from Surf users
+**Skills Learned**  
+- **Data preprocessing**  
+- **EDA (Exploratory Data Analysis)**  
+- **Hypothesis testing**  
+- **Business insights**  
 
-Revenue is highest in the NY-NJ-PA MSA region
-
-Statistical tests confirmed significant revenue differences between plans and regions
-
-Tools
-Python · Pandas · NumPy · Matplotlib · Seaborn · SciPy
-
-Skills Learned
-Data preprocessing · EDA · Hypothesis testing · Business insights
-
-Improvements
-Expand dataset for more years · Apply predictive models · Segment customers by demographics/usage
+**Improvements**  
+- Add more years of data  
+- Apply **predictive models**  
+- Segment customers by **demographics/usage patterns**
